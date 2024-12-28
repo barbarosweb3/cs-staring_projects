@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\bin\Debug\Ornek_Proje.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\bin\Debug\Ornek_Proje.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\bin\Debug\Ornek_Proje.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Proje\Ornek_Proje\obj\Debug\Ornek_Proje.pdb
