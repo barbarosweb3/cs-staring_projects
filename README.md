@@ -43,7 +43,7 @@ Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi taki
 ### Repository Kullanımı
 1. Repository'yi klonlayın:
 ```bash
-git clone https://github.com/[username]/cs-starting_projects.git
+git clone https://github.com/barbarosweb3/cs-starting_projects.git
 ```
 2. Düzenli olarak güncellemeleri kontrol edin:
 ```bash
@@ -107,7 +107,7 @@ This repository is an active learning project being created while following Mura
 ### Repository Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/[username]/cs-starting_projects.git
+git clone https://github.com/barbarosweb3/cs-starting_projects.git
 ```
 2. Regularly check for updates:
 ```bash
