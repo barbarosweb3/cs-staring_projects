@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\bin\Debug\Double_Degiskenler.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\bin\Debug\Double_Degiskenler.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\bin\Debug\Double_Degiskenler.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Double_Degiskenler\Double_Degiskenler\obj\Debug\Double_Degiskenler.pdb
