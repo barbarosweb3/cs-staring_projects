@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\bin\Debug\Degiskenler_int_2.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\bin\Debug\Degiskenler_int_2.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\bin\Debug\Degiskenler_int_2.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Degiskenler_int_2\Degiskenler_int_2\obj\Debug\Degiskenler_int_2.pdb

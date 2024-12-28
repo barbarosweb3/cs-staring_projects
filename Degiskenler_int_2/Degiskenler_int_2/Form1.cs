@@ -16,5 +16,13 @@ namespace Degiskenler_int_2
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int sayi, sonuç;
+            sayi = Convert.ToInt32(textBox1.Text);
+            sonuç = sayi * sayi * sayi;
+            label2.Text = sonuç.ToString();
+        }
     }
 }
