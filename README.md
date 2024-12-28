@@ -71,7 +71,7 @@ This repository is an active learning project being created while following Mura
 
 ### Training Status
 🔄 **Currently Active**
-- Start Date: [Date]
+- Start Date: 12/27/2024
 - Current Status: Basic Concepts and Variables
 - Completed Sections:
   - Variables (String, Integer)
@@ -130,4 +130,4 @@ git pull origin main
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-📝 *Son Güncelleme / Last Update: [28/12/2024]*
+📝 *Son Güncelleme / Last Update: 28/12/2024*
