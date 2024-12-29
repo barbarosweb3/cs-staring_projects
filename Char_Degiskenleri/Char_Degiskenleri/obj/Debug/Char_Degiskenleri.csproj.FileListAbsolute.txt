@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\bin\Debug\Char_Degiskenleri.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\bin\Debug\Char_Degiskenleri.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\bin\Debug\Char_Degiskenleri.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Char_Degiskenleri\Char_Degiskenleri\obj\Debug\Char_Degiskenleri.pdb
