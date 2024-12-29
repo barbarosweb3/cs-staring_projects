@@ -8,29 +8,40 @@ Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi taki
 ### Eğitim Durumu
 🔄 **Aktif Olarak Devam Ediyor**
 - Başlangıç Tarihi: 27/12/2024
-- Mevcut Durum: Temel Kavramlar ve Değişkenler
+- Mevcut Durum: Değişkenler ve Pratik Uygulamalar
 - Tamamlanan Bölümler:
-  - Değişkenler (String, Integer)
+  - Değişkenler (String, Integer, Double)
   - Temel Araç Kullanımları
+  - Basit Hesaplama Projeleri
 - Devam Eden Bölümler:
   - İleri Seviye Değişken Kullanımları
-  - Örnek Proje Uygulamaları
+  - Pratik Uygulama Geliştirme
 
 ### Güncel İçerik Yapısı
 - **Temel Değişkenler** (Tamamlandı ✅)
   - String değişkenler
   - Integer değişkenler
+  - Double değişkenler
   - Değişken tipleri ve kullanımları
 
-- **Araç Kullanımları** (Devam Ediyor 🔄)
+- **Araç Kullanımları** (Tamamlandı ✅)
   - Temel araç kullanımları
-  - İleri seviye araç implementasyonları
   - Örnek uygulamalar
+  - Pratik örnekler
 
-- **Örnek Projeler** (Başlangıç Aşamasında 📝)
-  - Temel seviye projeler
-  - Orta seviye uygulamalar
-  - Kapsamlı proje örnekleri
+- **Pratik Projeler** (Aktif 🔄)
+  - E-Okul Tarzı Not Hesaplama Sistemi
+  - Ürün Fiyat ve KDV Hesaplama
+  - Yeni projeler eklenmekte...
+
+### Mevcut Projeler
+1. **E-Okul Tarzı Basit Sistem**
+   - Öğrenci not hesaplama
+   - Basit kullanıcı arayüzü
+
+2. **Ürün Fiyat Hesaplama Sistemi**
+   - KDV hesaplama
+   - Toplam fiyat hesaplama
 
 ### Planlanan Teknolojiler
 - .NET Framework
@@ -72,29 +83,40 @@ This repository is an active learning project being created while following Mura
 ### Training Status
 🔄 **Currently Active**
 - Start Date: 12/27/2024
-- Current Status: Basic Concepts and Variables
+- Current Status: Variables and Practical Applications
 - Completed Sections:
-  - Variables (String, Integer)
+  - Variables (String, Integer, Double)
   - Basic Tool Usage
+  - Simple Calculation Projects
 - Ongoing Sections:
   - Advanced Variable Usage
-  - Sample Project Applications
+  - Practical Application Development
 
 ### Current Content Structure
 - **Basic Variables** (Completed ✅)
   - String variables
   - Integer variables
+  - Double variables
   - Variable types and their usage
 
-- **Use of Tools** (In Progress 🔄)
+- **Use of Tools** (Completed ✅)
   - Basic tool usage
-  - Advanced tool implementations
   - Sample applications
+  - Practical examples
 
-- **Example Projects** (Initial Stage 📝)
-  - Basic level projects
-  - Intermediate level applications
-  - Comprehensive project examples
+- **Practical Projects** (Active 🔄)
+  - School Grade Calculation System
+  - Product Price and VAT Calculator
+  - New projects being added...
+
+### Current Projects
+1. **Simple School Management System**
+   - Student grade calculation
+   - Basic user interface
+
+2. **Product Price Calculator System**
+   - VAT calculation
+   - Total price calculation
 
 ### Planned Technologies
 - .NET Framework
@@ -130,4 +152,4 @@ git pull origin main
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-📝 *Son Güncelleme / Last Update: 28/12/2024*
+📝 *Son Güncelleme / Last Update: 29/12/2024*
