@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\bin\Debug\E-Okul_Tarzı_Basit_Sistem.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\bin\Debug\E-Okul_Tarzı_Basit_Sistem.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\bin\Debug\E-Okul_Tarzı_Basit_Sistem.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E-Okul_Tarzı_Basit_Sistem.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E_Okul_Tarzı_Basit_Sistem.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E_Okul_Tarzı_Basit_Sistem.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E-Okul_Tarzı_Basit_Sistem.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E-Okul_Tarzı_Basit_Sistem.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E-Okul_Tarzı_Basit_Sistem.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\E-Okul_Tarzı_Basit_Sistem\E-Okul_Tarzı_Basit_Sistem\obj\Debug\E-Okul_Tarzı_Basit_Sistem.pdb
