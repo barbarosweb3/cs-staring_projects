@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\bin\Debug\Karar_Yapilari_Pratik.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\bin\Debug\Karar_Yapilari_Pratik.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\bin\Debug\Karar_Yapilari_Pratik.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Yapilari_Pratik\Karar_Yapilari_Pratik\obj\Debug\Karar_Yapilari_Pratik.pdb
