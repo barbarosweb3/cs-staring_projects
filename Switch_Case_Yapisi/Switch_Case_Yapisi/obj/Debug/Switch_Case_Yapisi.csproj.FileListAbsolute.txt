@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\bin\Debug\Switch_Case_Yapisi.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\bin\Debug\Switch_Case_Yapisi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\bin\Debug\Switch_Case_Yapisi.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Yapisi\Switch_Case_Yapisi\obj\Debug\Switch_Case_Yapisi.pdb
