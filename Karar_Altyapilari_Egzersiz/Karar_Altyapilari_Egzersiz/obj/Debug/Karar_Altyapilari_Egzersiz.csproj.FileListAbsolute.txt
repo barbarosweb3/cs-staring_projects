@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\bin\Debug\Karar_Altyapilari_Egzersiz.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\bin\Debug\Karar_Altyapilari_Egzersiz.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\bin\Debug\Karar_Altyapilari_Egzersiz.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Karar_Altyapilari_Egzersiz\Karar_Altyapilari_Egzersiz\obj\Debug\Karar_Altyapilari_Egzersiz.pdb
