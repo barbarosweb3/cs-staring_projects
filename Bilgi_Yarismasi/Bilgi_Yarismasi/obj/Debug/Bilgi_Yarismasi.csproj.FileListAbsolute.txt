@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
