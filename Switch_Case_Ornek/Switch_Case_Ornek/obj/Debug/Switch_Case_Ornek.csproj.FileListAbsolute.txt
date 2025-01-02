@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\bin\Debug\Switch_Case_Ornek.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\bin\Debug\Switch_Case_Ornek.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\bin\Debug\Switch_Case_Ornek.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Switch_Case_Ornek\Switch_Case_Ornek\obj\Debug\Switch_Case_Ornek.pdb
