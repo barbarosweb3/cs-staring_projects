@@ -8,31 +8,35 @@ Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi taki
 ### Eğitim Durumu
 🔄 **Aktif Olarak Devam Ediyor**
 - Başlangıç Tarihi: 27/12/2024
-- Mevcut Durum: Değişkenler ve Pratik Uygulamalar
+- Mevcut Durum: Kontrol Yapıları ve Pratik Uygulamalar
 - Tamamlanan Bölümler:
-  - Değişkenler (String, Integer, Double)
+  - Değişkenler (String, Integer, Double, Char)
   - Temel Araç Kullanımları
-  - Basit Hesaplama Projeleri
+  - Karar Yapıları (If-Else)
+  - Switch-Case Yapısı
 - Devam Eden Bölümler:
-  - İleri Seviye Değişken Kullanımları
-  - Pratik Uygulama Geliştirme
+  - Kontrol Yapıları ile Uygulama Geliştirme
+  - Pratik Projeler
 
 ### Güncel İçerik Yapısı
 - **Temel Değişkenler** (Tamamlandı ✅)
   - String değişkenler
   - Integer değişkenler
   - Double değişkenler
+  - Char değişkenler
   - Değişken tipleri ve kullanımları
 
-- **Araç Kullanımları** (Tamamlandı ✅)
-  - Temel araç kullanımları
-  - Örnek uygulamalar
-  - Pratik örnekler
+- **Kontrol Yapıları** (Tamamlandı ✅)
+  - If-Else yapıları
+  - Switch-Case yapısı
+  - Pratik örnekler ve egzersizler
 
 - **Pratik Projeler** (Aktif 🔄)
   - E-Okul Tarzı Not Hesaplama Sistemi
   - Ürün Fiyat ve KDV Hesaplama
-  - Yeni projeler eklenmekte...
+  - Sinema Büfe Satış Uygulaması
+  - Bilgi Yarışması Uygulaması
+  - Switch-Case Hesap Makinesi
 
 ### Mevcut Projeler
 1. **E-Okul Tarzı Basit Sistem**
@@ -42,6 +46,18 @@ Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi taki
 2. **Ürün Fiyat Hesaplama Sistemi**
    - KDV hesaplama
    - Toplam fiyat hesaplama
+
+3. **Sinema Büfe Satış Uygulaması**
+   - Ürün satış işlemleri
+   - Toplam tutar hesaplama
+
+4. **Bilgi Yarışması**
+   - Çoktan seçmeli sorular
+   - Puan hesaplama sistemi
+
+5. **Switch-Case Hesap Makinesi**
+   - Temel matematik işlemleri
+   - Kullanıcı dostu arayüz
 
 ### Planlanan Teknolojiler
 - .NET Framework
@@ -83,31 +99,35 @@ This repository is an active learning project being created while following Mura
 ### Training Status
 🔄 **Currently Active**
 - Start Date: 12/27/2024
-- Current Status: Variables and Practical Applications
+- Current Status: Control Structures and Practical Applications
 - Completed Sections:
-  - Variables (String, Integer, Double)
+  - Variables (String, Integer, Double, Char)
   - Basic Tool Usage
-  - Simple Calculation Projects
+  - Decision Structures (If-Else)
+  - Switch-Case Structure
 - Ongoing Sections:
-  - Advanced Variable Usage
-  - Practical Application Development
+  - Application Development with Control Structures
+  - Practical Projects
 
 ### Current Content Structure
 - **Basic Variables** (Completed ✅)
   - String variables
   - Integer variables
   - Double variables
+  - Char variables
   - Variable types and their usage
 
-- **Use of Tools** (Completed ✅)
-  - Basic tool usage
-  - Sample applications
-  - Practical examples
+- **Control Structures** (Completed ✅)
+  - If-Else structures
+  - Switch-Case structure
+  - Practical examples and exercises
 
 - **Practical Projects** (Active 🔄)
   - School Grade Calculation System
   - Product Price and VAT Calculator
-  - New projects being added...
+  - Movie Theater Buffet Sales Application
+  - Quiz Show Application
+  - Switch-Case Calculator
 
 ### Current Projects
 1. **Simple School Management System**
@@ -117,6 +137,18 @@ This repository is an active learning project being created while following Mura
 2. **Product Price Calculator System**
    - VAT calculation
    - Total price calculation
+
+3. **Movie Theater Buffet Sales Application**
+   - Product sales operations
+   - Total amount calculation
+
+4. **Quiz Show**
+   - Multiple choice questions
+   - Score calculation system
+
+5. **Switch-Case Calculator**
+   - Basic mathematical operations
+   - User-friendly interface
 
 ### Planned Technologies
 - .NET Framework
@@ -152,4 +184,4 @@ git pull origin main
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-📝 *Son Güncelleme / Last Update: 29/12/2024*
+📝 *Son Güncelleme / Last Update: 02/01/2024*
