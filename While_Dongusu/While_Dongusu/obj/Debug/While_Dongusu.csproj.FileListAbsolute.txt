@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\bin\Debug\While_Dongusu.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\bin\Debug\While_Dongusu.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\bin\Debug\While_Dongusu.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\While_Dongusu\While_Dongusu\obj\Debug\While_Dongusu.pdb
