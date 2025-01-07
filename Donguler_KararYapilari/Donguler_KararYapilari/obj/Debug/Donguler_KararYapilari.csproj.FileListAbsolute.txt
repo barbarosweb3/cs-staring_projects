@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\bin\Debug\Donguler_KararYapilari.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\bin\Debug\Donguler_KararYapilari.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\bin\Debug\Donguler_KararYapilari.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_KararYapilari\Donguler_KararYapilari\obj\Debug\Donguler_KararYapilari.pdb
