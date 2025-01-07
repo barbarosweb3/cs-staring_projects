@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\bin\Debug\Donguler_Pratik.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Donguler_Pratik\Donguler_Pratik\obj\Debug\Donguler_Pratik.pdb
