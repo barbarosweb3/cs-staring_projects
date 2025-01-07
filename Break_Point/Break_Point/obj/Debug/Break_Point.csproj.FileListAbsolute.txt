@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\bin\Debug\Break_Point.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\bin\Debug\Break_Point.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\bin\Debug\Break_Point.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Break_Point\Break_Point\obj\Debug\Break_Point.pdb
