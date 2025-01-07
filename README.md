@@ -6,58 +6,76 @@
 Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi takip edilerek oluşturulmakta olan aktif bir öğrenim projesidir. Repository, düzenli olarak güncellenmekte ve yeni içerikler eklenmektedir. Temel programlama kavramlarından ileri seviye web geliştirme konularına kadar geniş bir yelpazede örnekler ve projeler içerecektir.
 
 ### Eğitim Durumu
-🔄 **Aktif Olarak Devam Ediyor**
+🔄 Aktif Olarak Devam Ediyor
+
 - Başlangıç Tarihi: 27/12/2024
-- Mevcut Durum: Kontrol Yapıları ve Pratik Uygulamalar
+- Mevcut Durum: Döngüler ve Timer Uygulamaları
 - Tamamlanan Bölümler:
   - Değişkenler (String, Integer, Double, Char)
   - Temel Araç Kullanımları
   - Karar Yapıları (If-Else)
   - Switch-Case Yapısı
+  - Temel Döngüler (While, Do-While)
 - Devam Eden Bölümler:
-  - Kontrol Yapıları ile Uygulama Geliştirme
+  - Timer Uygulamaları
+  - İleri Seviye Döngü Yapıları
   - Pratik Projeler
 
 ### Güncel İçerik Yapısı
-- **Temel Değişkenler** (Tamamlandı ✅)
-  - String değişkenler
-  - Integer değişkenler
-  - Double değişkenler
-  - Char değişkenler
-  - Değişken tipleri ve kullanımları
 
-- **Kontrol Yapıları** (Tamamlandı ✅)
-  - If-Else yapıları
-  - Switch-Case yapısı
-  - Pratik örnekler ve egzersizler
+#### Temel Değişkenler (Tamamlandı ✅)
+- String değişkenler
+- Integer değişkenler
+- Double değişkenler
+- Char değişkenler
+- Değişken tipleri ve kullanımları
 
-- **Pratik Projeler** (Aktif 🔄)
-  - E-Okul Tarzı Not Hesaplama Sistemi
-  - Ürün Fiyat ve KDV Hesaplama
-  - Sinema Büfe Satış Uygulaması
-  - Bilgi Yarışması Uygulaması
-  - Switch-Case Hesap Makinesi
+#### Kontrol Yapıları (Tamamlandı ✅)
+- If-Else yapıları
+- Switch-Case yapısı
+- Pratik örnekler ve egzersizler
+
+#### Döngüler (Devam Ediyor 🔄)
+- While döngüsü
+- Do-While döngüsü
+- Döngülerle karar yapıları
+- Timer uygulamaları
+- Break Point kullanımı
+
+#### Pratik Projeler (Aktif 🔄)
+- E-Okul Tarzı Not Hesaplama Sistemi
+- Ürün Fiyat ve KDV Hesaplama
+- Sinema Büfe Satış Uygulaması
+- Bilgi Yarışması Uygulaması
+- Switch-Case Hesap Makinesi
+- Zamanlayıcı Uygulamaları
 
 ### Mevcut Projeler
-1. **E-Okul Tarzı Basit Sistem**
-   - Öğrenci not hesaplama
-   - Basit kullanıcı arayüzü
 
-2. **Ürün Fiyat Hesaplama Sistemi**
-   - KDV hesaplama
-   - Toplam fiyat hesaplama
+#### E-Okul Tarzı Basit Sistem
+- Öğrenci not hesaplama
+- Basit kullanıcı arayüzü
 
-3. **Sinema Büfe Satış Uygulaması**
-   - Ürün satış işlemleri
-   - Toplam tutar hesaplama
+#### Ürün Fiyat Hesaplama Sistemi
+- KDV hesaplama
+- Toplam fiyat hesaplama
 
-4. **Bilgi Yarışması**
-   - Çoktan seçmeli sorular
-   - Puan hesaplama sistemi
+#### Sinema Büfe Satış Uygulaması
+- Ürün satış işlemleri
+- Toplam tutar hesaplama
 
-5. **Switch-Case Hesap Makinesi**
-   - Temel matematik işlemleri
-   - Kullanıcı dostu arayüz
+#### Bilgi Yarışması
+- Çoktan seçmeli sorular
+- Puan hesaplama sistemi
+
+#### Switch-Case Hesap Makinesi
+- Temel matematik işlemleri
+- Kullanıcı dostu arayüz
+
+#### Timer Uygulamaları
+- Geri sayım sistemleri
+- Kronometre fonksiyonları
+- Zamanlayıcı kontrolleri
 
 ### Planlanan Teknolojiler
 - .NET Framework
@@ -68,11 +86,12 @@ Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi taki
 - SQL Server
 
 ### Repository Kullanımı
-1. Repository'yi klonlayın:
+Repository'yi klonlayın:
 ```bash
 git clone https://github.com/barbarosweb3/cs-starting_projects.git
 ```
-2. Düzenli olarak güncellemeleri kontrol edin:
+
+Düzenli olarak güncellemeleri kontrol edin:
 ```bash
 git pull origin main
 ```
@@ -89,66 +108,82 @@ git pull origin main
 4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
 5. Pull Request oluşturun
 
----
-
 ## 🇬🇧 English
 
 ### About The Project
 This repository is an active learning project being created while following Murat Yücedağ's Full Stack .NET Developer training series. The repository is regularly updated with new content and will include examples and projects covering a wide range of topics from basic programming concepts to advanced web development.
 
 ### Training Status
-🔄 **Currently Active**
+🔄 Currently Active
+
 - Start Date: 12/27/2024
-- Current Status: Control Structures and Practical Applications
+- Current Status: Loops and Timer Applications
 - Completed Sections:
   - Variables (String, Integer, Double, Char)
   - Basic Tool Usage
   - Decision Structures (If-Else)
   - Switch-Case Structure
+  - Basic Loops (While, Do-While)
 - Ongoing Sections:
-  - Application Development with Control Structures
+  - Timer Applications
+  - Advanced Loop Structures
   - Practical Projects
 
 ### Current Content Structure
-- **Basic Variables** (Completed ✅)
-  - String variables
-  - Integer variables
-  - Double variables
-  - Char variables
-  - Variable types and their usage
 
-- **Control Structures** (Completed ✅)
-  - If-Else structures
-  - Switch-Case structure
-  - Practical examples and exercises
+#### Basic Variables (Completed ✅)
+- String variables
+- Integer variables
+- Double variables
+- Char variables
+- Variable types and their usage
 
-- **Practical Projects** (Active 🔄)
-  - School Grade Calculation System
-  - Product Price and VAT Calculator
-  - Movie Theater Buffet Sales Application
-  - Quiz Show Application
-  - Switch-Case Calculator
+#### Control Structures (Completed ✅)
+- If-Else structures
+- Switch-Case structure
+- Practical examples and exercises
+
+#### Loops (In Progress 🔄)
+- While loop
+- Do-While loop
+- Loops with decision structures
+- Timer applications
+- Break Point usage
+
+#### Practical Projects (Active 🔄)
+- School Grade Calculation System
+- Product Price and VAT Calculator
+- Movie Theater Buffet Sales Application
+- Quiz Show Application
+- Switch-Case Calculator
+- Timer Applications
 
 ### Current Projects
-1. **Simple School Management System**
-   - Student grade calculation
-   - Basic user interface
 
-2. **Product Price Calculator System**
-   - VAT calculation
-   - Total price calculation
+#### Simple School Management System
+- Student grade calculation
+- Basic user interface
 
-3. **Movie Theater Buffet Sales Application**
-   - Product sales operations
-   - Total amount calculation
+#### Product Price Calculator System
+- VAT calculation
+- Total price calculation
 
-4. **Quiz Show**
-   - Multiple choice questions
-   - Score calculation system
+#### Movie Theater Buffet Sales Application
+- Product sales operations
+- Total amount calculation
 
-5. **Switch-Case Calculator**
-   - Basic mathematical operations
-   - User-friendly interface
+#### Quiz Show
+- Multiple choice questions
+- Score calculation system
+
+#### Switch-Case Calculator
+- Basic mathematical operations
+- User-friendly interface
+
+#### Timer Applications
+- Countdown systems
+- Stopwatch functions
+- Timer controls
 
 ### Planned Technologies
 - .NET Framework
@@ -159,11 +194,12 @@ This repository is an active learning project being created while following Mura
 - SQL Server
 
 ### Repository Usage
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/barbarosweb3/cs-starting_projects.git
 ```
-2. Regularly check for updates:
+
+Regularly check for updates:
 ```bash
 git pull origin main
 ```
@@ -181,7 +217,6 @@ git pull origin main
 5. Create a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-📝 *Son Güncelleme / Last Update: 02/01/2024*
+📝 Son Güncelleme / Last Update: 07/01/2024
