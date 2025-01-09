@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Metotlar\Metotlar\obj\Debug\Metotlar.pdb
