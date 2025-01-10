@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\bin\Debug\Return_Method_Ornekleri.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\bin\Debug\Return_Method_Ornekleri.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\bin\Debug\Return_Method_Ornekleri.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Return_Method_Ornekleri\Return_Method_Ornekleri\obj\Debug\Return_Method_Ornekleri.pdb
