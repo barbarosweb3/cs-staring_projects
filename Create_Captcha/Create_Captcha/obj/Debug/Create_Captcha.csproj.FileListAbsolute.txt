@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\bin\Debug\Create_Captcha.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\bin\Debug\Create_Captcha.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\bin\Debug\Create_Captcha.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Create_Captcha\Create_Captcha\obj\Debug\Create_Captcha.pdb
