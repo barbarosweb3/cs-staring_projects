@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\bin\Debug\Random_Kullanimi.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\bin\Debug\Random_Kullanimi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\bin\Debug\Random_Kullanimi.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Random_Kullanimi\Random_Kullanimi\obj\Debug\Random_Kullanimi.pdb
