@@ -1,222 +1,288 @@
-# .NET Full Stack Developer Eğitimi | .NET Full Stack Developer Course
-
-## 🇹🇷 Türkçe
-
-### Proje Hakkında
+.NET Full Stack Developer Eğitimi | .NET Full Stack Developer Course
+🇹🇷 Türkçe
+Proje Hakkında
 Bu repository, Murat Yücedağ'ın Full Stack .NET Developer eğitim serisi takip edilerek oluşturulmakta olan aktif bir öğrenim projesidir. Repository, düzenli olarak güncellenmekte ve yeni içerikler eklenmektedir. Temel programlama kavramlarından ileri seviye web geliştirme konularına kadar geniş bir yelpazede örnekler ve projeler içerecektir.
-
-### Eğitim Durumu
+Eğitim Durumu
 🔄 Aktif Olarak Devam Ediyor
 
-- Başlangıç Tarihi: 27/12/2024
-- Mevcut Durum: Döngüler ve Timer Uygulamaları
-- Tamamlanan Bölümler:
-  - Değişkenler (String, Integer, Double, Char)
-  - Temel Araç Kullanımları
-  - Karar Yapıları (If-Else)
-  - Switch-Case Yapısı
-  - Temel Döngüler (While, Do-While)
-- Devam Eden Bölümler:
-  - Timer Uygulamaları
-  - İleri Seviye Döngü Yapıları
-  - Pratik Projeler
+Başlangıç Tarihi: 27/12/2024
+Mevcut Durum: Sınıflar ve Metotlar
+Tamamlanan Bölümler:
 
-### Güncel İçerik Yapısı
+Değişkenler (String, Integer, Double, Char)
+Temel Araç Kullanımları
+Karar Yapıları (If-Else)
+Switch-Case Yapısı
+Temel Döngüler (While, Do-While)
+Diziler ve ForEach
+Timer Uygulamaları
+Progress Bar Kullanımı
+Metotlar ve Return Değerleri
 
-#### Temel Değişkenler (Tamamlandı ✅)
-- String değişkenler
-- Integer değişkenler
-- Double değişkenler
-- Char değişkenler
-- Değişken tipleri ve kullanımları
 
-#### Kontrol Yapıları (Tamamlandı ✅)
-- If-Else yapıları
-- Switch-Case yapısı
-- Pratik örnekler ve egzersizler
+Devam Eden Bölümler:
 
-#### Döngüler (Devam Ediyor 🔄)
-- While döngüsü
-- Do-While döngüsü
-- Döngülerle karar yapıları
-- Timer uygulamaları
-- Break Point kullanımı
+Sınıf Yapıları
+OOP Giriş
 
-#### Pratik Projeler (Aktif 🔄)
-- E-Okul Tarzı Not Hesaplama Sistemi
-- Ürün Fiyat ve KDV Hesaplama
-- Sinema Büfe Satış Uygulaması
-- Bilgi Yarışması Uygulaması
-- Switch-Case Hesap Makinesi
-- Zamanlayıcı Uygulamaları
 
-### Mevcut Projeler
 
-#### E-Okul Tarzı Basit Sistem
-- Öğrenci not hesaplama
-- Basit kullanıcı arayüzü
+Güncel İçerik Yapısı
+Temel Değişkenler (Tamamlandı ✅)
 
-#### Ürün Fiyat Hesaplama Sistemi
-- KDV hesaplama
-- Toplam fiyat hesaplama
+String değişkenler
+Integer değişkenler
+Double değişkenler
+Char değişkenler
+Değişken tipleri ve kullanımları
 
-#### Sinema Büfe Satış Uygulaması
-- Ürün satış işlemleri
-- Toplam tutar hesaplama
+Kontrol Yapıları (Tamamlandı ✅)
 
-#### Bilgi Yarışması
-- Çoktan seçmeli sorular
-- Puan hesaplama sistemi
+If-Else yapıları
+Switch-Case yapısı
+Pratik örnekler ve egzersizler
 
-#### Switch-Case Hesap Makinesi
-- Temel matematik işlemleri
-- Kullanıcı dostu arayüz
+Döngüler (Tamamlandı ✅)
 
-#### Timer Uygulamaları
-- Geri sayım sistemleri
-- Kronometre fonksiyonları
-- Zamanlayıcı kontrolleri
+While döngüsü
+Do-While döngüsü
+Döngülerle karar yapıları
+Timer uygulamaları
+Break Point kullanımı
 
-### Planlanan Teknolojiler
-- .NET Framework
-- ASP.NET
-- C#
-- HTML/CSS
-- JavaScript
-- SQL Server
+Diziler ve Koleksiyonlar (Tamamlandı ✅)
 
-### Repository Kullanımı
-Repository'yi klonlayın:
-```bash
-git clone https://github.com/barbarosweb3/cs-starting_projects.git
-```
+Tek boyutlu diziler
+Çok boyutlu diziler
+ForEach döngüsü
+Dizi işlemleri ve metotları
 
-Düzenli olarak güncellemeleri kontrol edin:
-```bash
-git pull origin main
-```
+Metotlar (Tamamlandı ✅)
 
-### Notlar
-- Bu repository, aktif bir öğrenme sürecinin parçasıdır ve düzenli olarak güncellenmektedir.
-- Kodlar ve projeler eğitim sürecinde öğrenilen bilgiler doğrultusunda geliştirilmektedir.
-- Her commit, eğitimde işlenen yeni bir konuyu veya pratik uygulamayı temsil etmektedir.
+Void metotlar
+Return değeri olan metotlar
+Parametre kullanımı
+Metot örnekleri ve uygulamalar
 
-### Katkıda Bulunma
-1. Bu repository'yi fork edin
-2. Feature branch'i oluşturun (`git checkout -b feature/YeniOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/YeniOzellik`)
-5. Pull Request oluşturun
+Sınıflar ve OOP (Yeni Başlandı 🆕)
 
-## 🇬🇧 English
+Sınıf yapısı
+Nesne oluşturma
+Temel OOP kavramları
 
-### About The Project
+Arayüz Bileşenleri (Tamamlandı ✅)
+
+Timer kontrolü
+Progress Bar kullanımı
+Form elemanları
+
+Pratik Projeler (Aktif 🔄)
+
+E-Okul Tarzı Not Hesaplama Sistemi
+Ürün Fiyat ve KDV Hesaplama
+Sinema Büfe Satış Uygulaması
+Bilgi Yarışması Uygulaması
+Switch-Case Hesap Makinesi
+Pasta Pişirme Süreç Uygulaması
+Zamanlayıcı Uygulamaları
+
+Mevcut Projeler
+E-Okul Tarzı Basit Sistem
+
+Öğrenci not hesaplama
+Basit kullanıcı arayüzü
+
+Ürün Fiyat Hesaplama Sistemi
+
+KDV hesaplama
+Toplam fiyat hesaplama
+
+Sinema Büfe Satış Uygulaması
+
+Ürün satış işlemleri
+Toplam tutar hesaplama
+
+Bilgi Yarışması
+
+Çoktan seçmeli sorular
+Puan hesaplama sistemi
+
+Pasta Pişirme Süreç Uygulaması
+
+Progress Bar kullanımı
+Timer entegrasyonu
+Süreç takibi
+
+Timer ve Progress Bar Uygulamaları
+
+Geri sayım sistemleri
+Kronometre fonksiyonları
+İşlem durum göstergeleri
+Zamanlayıcı kontrolleri
+
+Planlanan Teknolojiler
+
+.NET Framework
+ASP.NET
+C#
+HTML/CSS
+JavaScript
+SQL Server
+
+[Repository kullanımı ve diğer bölümler aynı kalacak...]
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+📝 Son Güncelleme / Last Update: 11/01/2024
+
+🇬🇧 English
+About The Project
 This repository is an active learning project being created while following Murat Yücedağ's Full Stack .NET Developer training series. The repository is regularly updated with new content and will include examples and projects covering a wide range of topics from basic programming concepts to advanced web development.
-
-### Training Status
+Training Status
 🔄 Currently Active
 
-- Start Date: 12/27/2024
-- Current Status: Loops and Timer Applications
-- Completed Sections:
-  - Variables (String, Integer, Double, Char)
-  - Basic Tool Usage
-  - Decision Structures (If-Else)
-  - Switch-Case Structure
-  - Basic Loops (While, Do-While)
-- Ongoing Sections:
-  - Timer Applications
-  - Advanced Loop Structures
-  - Practical Projects
+Start Date: 12/27/2024
+Current Status: Classes and Methods
+Completed Sections:
 
-### Current Content Structure
+Variables (String, Integer, Double, Char)
+Basic Tool Usage
+Decision Structures (If-Else)
+Switch-Case Structure
+Basic Loops (While, Do-While)
+Arrays and ForEach
+Timer Applications
+Progress Bar Usage
+Methods and Return Values
 
-#### Basic Variables (Completed ✅)
-- String variables
-- Integer variables
-- Double variables
-- Char variables
-- Variable types and their usage
 
-#### Control Structures (Completed ✅)
-- If-Else structures
-- Switch-Case structure
-- Practical examples and exercises
+Ongoing Sections:
 
-#### Loops (In Progress 🔄)
-- While loop
-- Do-While loop
-- Loops with decision structures
-- Timer applications
-- Break Point usage
+Class Structures
+OOP Introduction
 
-#### Practical Projects (Active 🔄)
-- School Grade Calculation System
-- Product Price and VAT Calculator
-- Movie Theater Buffet Sales Application
-- Quiz Show Application
-- Switch-Case Calculator
-- Timer Applications
 
-### Current Projects
 
-#### Simple School Management System
-- Student grade calculation
-- Basic user interface
+Current Content Structure
+Basic Variables (Completed ✅)
 
-#### Product Price Calculator System
-- VAT calculation
-- Total price calculation
+String variables
+Integer variables
+Double variables
+Char variables
+Variable types and their usage
 
-#### Movie Theater Buffet Sales Application
-- Product sales operations
-- Total amount calculation
+Control Structures (Completed ✅)
 
-#### Quiz Show
-- Multiple choice questions
-- Score calculation system
+If-Else structures
+Switch-Case structure
+Practical examples and exercises
 
-#### Switch-Case Calculator
-- Basic mathematical operations
-- User-friendly interface
+Loops (Completed ✅)
 
-#### Timer Applications
-- Countdown systems
-- Stopwatch functions
-- Timer controls
+While loop
+Do-While loop
+Loops with decision structures
+Timer applications
+Break Point usage
 
-### Planned Technologies
-- .NET Framework
-- ASP.NET
-- C#
-- HTML/CSS
-- JavaScript
-- SQL Server
+Arrays and Collections (Completed ✅)
 
-### Repository Usage
+Single-dimensional arrays
+Multi-dimensional arrays
+ForEach loop
+Array operations and methods
+
+Methods (Completed ✅)
+
+Void methods
+Methods with return values
+Parameter usage
+Method examples and applications
+
+Classes and OOP (Just Started 🆕)
+
+Class structure
+Object creation
+Basic OOP concepts
+
+Interface Components (Completed ✅)
+
+Timer control
+Progress Bar usage
+Form elements
+
+Practical Projects (Active 🔄)
+
+School Grade Calculation System
+Product Price and VAT Calculator
+Movie Theater Buffet Sales Application
+Quiz Show Application
+Switch-Case Calculator
+Cake Baking Process Application
+Timer Applications
+
+Current Projects
+Simple School Management System
+
+Student grade calculation
+Basic user interface
+
+Product Price Calculator System
+
+VAT calculation
+Total price calculation
+
+Movie Theater Buffet Sales Application
+
+Product sales operations
+Total amount calculation
+
+Quiz Show
+
+Multiple choice questions
+Score calculation system
+
+Cake Baking Process Application
+
+Progress Bar usage
+Timer integration
+Process tracking
+
+Timer and Progress Bar Applications
+
+Countdown systems
+Stopwatch functions
+Process indicators
+Timer controls
+
+Planned Technologies
+
+.NET Framework
+ASP.NET
+C#
+HTML/CSS
+JavaScript
+SQL Server
+
+Repository Usage
 Clone the repository:
-```bash
-git clone https://github.com/barbarosweb3/cs-starting_projects.git
-```
-
+bashCopygit clone https://github.com/barbarosweb3/cs-starting_projects.git
 Regularly check for updates:
-```bash
-git pull origin main
-```
+bashCopygit pull origin main
+Notes
 
-### Notes
-- This repository is part of an active learning process and is regularly updated.
-- Code and projects are developed based on knowledge gained during the training.
-- Each commit represents a new topic or practical application covered in the training.
+This repository is part of an active learning process and is regularly updated.
+Code and projects are developed based on knowledge gained during the training.
+Each commit represents a new topic or practical application covered in the training.
 
-### Contributing
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/NewFeature`)
-3. Commit your changes (`git commit -m 'Add some NewFeature'`)
-4. Push to the branch (`git push origin feature/NewFeature`)
-5. Create a Pull Request
+Contributing
 
-## License
+Fork this repository
+Create your feature branch (git checkout -b feature/NewFeature)
+Commit your changes (git commit -m 'Add some NewFeature')
+Push to the branch (git push origin feature/NewFeature)
+Create a Pull Request
+
+License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-📝 Son Güncelleme / Last Update: 07/01/2024
+📝 Son Güncelleme / Last Update: 11/01/2024
