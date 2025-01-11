@@ -1,0 +1,7 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\bin\Debug\Console_With_ReturnValue.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\bin\Debug\Console_With_ReturnValue.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\bin\Debug\Console_With_ReturnValue.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\obj\Debug\Console_With_ReturnValue.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\obj\Debug\Console_With_ReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\obj\Debug\Console_With_ReturnValue.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_With_ReturnValue\Console_With_ReturnValue\obj\Debug\Console_With_ReturnValue.pdb
