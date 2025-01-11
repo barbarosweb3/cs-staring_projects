@@ -1,0 +1,11 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\bin\Debug\Passing_Between_Forms.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\bin\Debug\Passing_Between_Forms.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\bin\Debug\Passing_Between_Forms.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.Form2.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Passing_Between_Forms\Passing_Between_Forms\obj\Debug\Passing_Between_Forms.pdb
