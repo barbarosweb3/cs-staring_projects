@@ -1,0 +1,11 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\bin\Debug\Sinif_Ornek_Kapsulleme.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\bin\Debug\Sinif_Ornek_Kapsulleme.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\bin\Debug\Sinif_Ornek_Kapsulleme.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.Form2.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kapsulleme\Sinif_Ornek_Kapsulleme\obj\Debug\Sinif_Ornek_Kapsulleme.pdb
