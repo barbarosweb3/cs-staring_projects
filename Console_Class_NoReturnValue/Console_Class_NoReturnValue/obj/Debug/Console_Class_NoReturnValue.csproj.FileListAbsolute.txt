@@ -1,0 +1,7 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\bin\Debug\Console_Class_NoReturnValue.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\bin\Debug\Console_Class_NoReturnValue.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\bin\Debug\Console_Class_NoReturnValue.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\obj\Debug\Console_Class_NoReturnValue.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\obj\Debug\Console_Class_NoReturnValue.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\obj\Debug\Console_Class_NoReturnValue.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Console_Class_NoReturnValue\Console_Class_NoReturnValue\obj\Debug\Console_Class_NoReturnValue.pdb
