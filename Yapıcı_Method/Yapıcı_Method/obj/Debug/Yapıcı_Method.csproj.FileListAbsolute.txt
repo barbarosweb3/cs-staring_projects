@@ -1,0 +1,7 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\bin\Debug\Yapıcı_Method.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\bin\Debug\Yapıcı_Method.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\bin\Debug\Yapıcı_Method.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\obj\Debug\Yapıcı_Method.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\obj\Debug\Yapıcı_Method.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\obj\Debug\Yapıcı_Method.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Yapıcı_Method\Yapıcı_Method\obj\Debug\Yapıcı_Method.pdb
