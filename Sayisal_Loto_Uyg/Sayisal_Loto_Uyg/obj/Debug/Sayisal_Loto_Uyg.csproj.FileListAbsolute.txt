@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\bin\Debug\Sayisal_Loto_Uyg.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\bin\Debug\Sayisal_Loto_Uyg.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\bin\Debug\Sayisal_Loto_Uyg.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sayisal_Loto_Uyg\Sayisal_Loto_Uyg\obj\Debug\Sayisal_Loto_Uyg.pdb
