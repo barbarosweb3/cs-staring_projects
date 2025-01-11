@@ -1,0 +1,7 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\bin\Debug\Ornek_Console.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\bin\Debug\Ornek_Console.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\bin\Debug\Ornek_Console.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Ornek_Console\Ornek_Console\obj\Debug\Ornek_Console.pdb
