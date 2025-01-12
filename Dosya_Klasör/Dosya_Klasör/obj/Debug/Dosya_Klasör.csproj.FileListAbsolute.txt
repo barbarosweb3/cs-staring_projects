@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\bin\Debug\Dosya_Klasör.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\bin\Debug\Dosya_Klasör.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\bin\Debug\Dosya_Klasör.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Dosya_Klasör\Dosya_Klasör\obj\Debug\Dosya_Klasör.Form1.resources
