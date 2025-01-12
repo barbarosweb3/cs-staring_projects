@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.pdb
