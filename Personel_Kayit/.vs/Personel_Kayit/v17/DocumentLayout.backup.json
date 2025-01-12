@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026B05B3-1C4C-4C59-80E3-EBAE8DA37FBF}|Personel_Kayit\\Personel_Kayit.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\personel_kayit\\personel_kayit\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{026B05B3-1C4C-4C59-80E3-EBAE8DA37FBF}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmraporlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026B05B3-1C4C-4C59-80E3-EBAE8DA37FBF}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{026B05B3-1C4C-4C59-80E3-EBAE8DA37FBF}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026B05B3-1C4C-4C59-80E3-EBAE8DA37FBF}|Personel_Kayit\\Personel_Kayit.csproj|C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026B05B3-1C4C-4C59-80E3-EBAE8DA37FBF}|Personel_Kayit\\Personel_Kayit.csproj|solutionrelative:personel_kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeToolTip": "Personel_Kayit\\FrmAnaForm.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAD4v5MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:58:12.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRaporlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\Personel_Kayit\\FrmRaporlar.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmRaporlar.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\Personel_Kayit\\FrmRaporlar.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\FrmRaporlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T02:55:13.417Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\Personel_Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "Personel_Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Personel_Kayit\\Personel_Kayit\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "Personel_Kayit\\FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:42:05.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
