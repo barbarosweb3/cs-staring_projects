@@ -1,0 +1,10 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.pdb
