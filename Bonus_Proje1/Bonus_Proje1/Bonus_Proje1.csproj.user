@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmDersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKulup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgrenciNotlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOgretmen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSinavNotlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Bonus_Proje.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

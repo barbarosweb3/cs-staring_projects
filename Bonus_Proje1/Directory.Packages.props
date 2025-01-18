@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
+    <NoWarn>$(NoWarn);NU1507</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="DevExpress.Data" Version="24.2.3" />
+    <PackageVersion Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageVersion Include="Microsoft.Data.SqlClient.SNI" Version="6.0.2" />
+    <PackageVersion Include="System.Configuration.ConfigurationManager" Version="9.0.1" />
+    <PackageVersion Include="System.Data.SqlClient" Version="4.9.0" />
+  </ItemGroup>
+</Project>

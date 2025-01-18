@@ -1,0 +1,12 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.FrmDersler.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.FrmKulup.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.FrmOgrenciNotlar.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.FrmOgretmen.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.AssemblyInfoInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.AssemblyInfo.cs
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Bonus_Proje1\Bonus_Proje1\obj\Debug\net5.0-windows7.0\Bonus_Proje1.csproj.CoreCompileInputs.cache

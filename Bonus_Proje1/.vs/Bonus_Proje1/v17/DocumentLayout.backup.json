@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\bonus_proje1\\bonus_proje1\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|solutionrelative:bonus_proje1\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\bonus_proje1\\bonus_proje1\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|solutionrelative:bonus_proje1\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\bonus_proje1\\bonus_proje1\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|solutionrelative:bonus_proje1\\frmogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\bonus_proje1\\bonus_proje1\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61AB19C6-6139-456D-B316-E50E8665FA43}|Bonus_Proje1\\Bonus_Proje1.csproj|solutionrelative:bonus_proje1\\frmsinavnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Bonus_Proje1\\DataSet1.xsd",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\DataSet1.xsd",
+              "RelativeToolTip": "Bonus_Proje1\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-18T21:58:07.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\FrmOgrenci.cs",
+              "RelativeDocumentMoniker": "Bonus_Proje1\\FrmOgrenci.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\FrmOgrenci.cs",
+              "RelativeToolTip": "Bonus_Proje1\\FrmOgrenci.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswEYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:49:57.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSinavNotlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\FrmSinavNotlar.cs",
+              "RelativeDocumentMoniker": "Bonus_Proje1\\FrmSinavNotlar.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\FrmSinavNotlar.cs [Design]",
+              "RelativeToolTip": "Bonus_Proje1\\FrmSinavNotlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:49:32.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSinavNotlar.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\FrmSinavNotlar.cs",
+              "RelativeDocumentMoniker": "Bonus_Proje1\\FrmSinavNotlar.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\Bonus_Proje1\\Bonus_Proje1\\FrmSinavNotlar.cs",
+              "RelativeToolTip": "Bonus_Proje1\\FrmSinavNotlar.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAawFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:14:56.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
