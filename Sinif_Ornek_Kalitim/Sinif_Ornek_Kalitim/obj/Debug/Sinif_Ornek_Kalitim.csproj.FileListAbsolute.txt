@@ -1,0 +1,11 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\bin\Debug\Sinif_Ornek_Kalitim.exe.config
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\bin\Debug\Sinif_Ornek_Kalitim.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\bin\Debug\Sinif_Ornek_Kalitim.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.Form2.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.Properties.Resources.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Sinif_Ornek_Kalitim\Sinif_Ornek_Kalitim\obj\Debug\Sinif_Ornek_Kalitim.pdb
