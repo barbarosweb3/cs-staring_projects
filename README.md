@@ -1,6 +1,3 @@
-Tabii ki, tüm güncel README.md içeriğini tek parça halinde paylaşıyorum:
-
-```markdown
 # .NET Full Stack Developer Eğitimi | .NET Full Stack Developer Course
 
 ## 🇹🇷 Türkçe
@@ -147,4 +144,4 @@ This repository is an active learning project being created while following Mura
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📝 Son Güncelleme / Last Update: 19/01/2024
-```
+
