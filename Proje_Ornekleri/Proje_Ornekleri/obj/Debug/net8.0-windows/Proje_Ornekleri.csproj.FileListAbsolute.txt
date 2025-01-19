@@ -1,0 +1,16 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\bin\Debug\net8.0-windows\Proje_Ornekleri.exe
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\bin\Debug\net8.0-windows\Proje_Ornekleri.deps.json
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\bin\Debug\net8.0-windows\Proje_Ornekleri.runtimeconfig.json
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\bin\Debug\net8.0-windows\Proje_Ornekleri.dll
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\bin\Debug\net8.0-windows\Proje_Ornekleri.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.Form1.resources
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.csproj.GenerateResource.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.AssemblyInfoInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.AssemblyInfo.cs
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.dll
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\refint\Proje_Ornekleri.dll
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\Proje_Ornekleri.genruntimeconfig.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\Proje_Ornekleri\Proje_Ornekleri\obj\Debug\net8.0-windows\ref\Proje_Ornekleri.dll
