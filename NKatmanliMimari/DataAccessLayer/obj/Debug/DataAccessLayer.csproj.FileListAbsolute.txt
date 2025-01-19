@@ -1,0 +1,9 @@
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\barba\OneDrive\Masaüstü\Udemy Projeleri\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

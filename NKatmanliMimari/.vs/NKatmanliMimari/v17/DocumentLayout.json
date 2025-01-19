@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F5B14-B569-4BD5-AD3C-E140E91EF366}|NKatmanliMimari\\NKatmanliMimari.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\nkatmanlimimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0F5B14-B569-4BD5-AD3C-E140E91EF366}|NKatmanliMimari\\NKatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6073085-E1B6-456C-9AB3-794A60C97FD8}|LogicLayer\\LogicLayer.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\nkatmanlimimari\\logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6073085-E1B6-456C-9AB3-794A60C97FD8}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC42CF-FA65-40FA-AA9B-EF277334EC3B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\nkatmanlimimari\\dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC42CF-FA65-40FA-AA9B-EF277334EC3B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0F5B14-B569-4BD5-AD3C-E140E91EF366}|NKatmanliMimari\\NKatmanliMimari.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\nkatmanlimimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE0F5B14-B569-4BD5-AD3C-E140E91EF366}|NKatmanliMimari\\NKatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D29FA27-8ED1-436F-B6DE-356A3B74F708}|EntityLayer\\EntityLayer.csproj|c:\\users\\barba\\onedrive\\masa\u00FCst\u00FC\\udemy projeleri\\nkatmanlimimari\\entitylayer\\entitypersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D29FA27-8ED1-436F-B6DE-356A3B74F708}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitypersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\LogicPersonel.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeToolTip": "LogicLayer\\LogicPersonel.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:03:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\EntityLayer\\EntityPersonel.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityPersonel.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\EntityLayer\\EntityPersonel.cs",
+              "RelativeToolTip": "EntityLayer\\EntityPersonel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:46:40.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DALPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\DataAccessLayer\\DALPersonel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALPersonel.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\DataAccessLayer\\DALPersonel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALPersonel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:45:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NKatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeToolTip": "NKatmanliMimari\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:43:49.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NKatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\barba\\OneDrive\\Masa\u00FCst\u00FC\\Udemy Projeleri\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs [Design]",
+              "RelativeToolTip": "NKatmanliMimari\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:34:52.915Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
